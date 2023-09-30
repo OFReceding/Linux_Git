@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("try git\r\n");
+  printf("master branch\r\n");
   return 0;
 }
